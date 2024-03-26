@@ -17,3 +17,6 @@
 This release will have have limited features. Over a period of time, new functionalities will be added to this site.
 
 **1.1.4 Test scope**
+
+
+# Functional specifications

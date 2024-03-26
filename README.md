@@ -10,30 +10,34 @@
 ![Imagetext](https://github.com/AlinaRaluca92/Proiect-TM/blob/main/Capture.JPG)
 
 
-1. First item
-2. Second item
-3. Third item
-    1. Indented item
-    2. Indented item
-4. Forth line
 
-1. Introduction
-    
-            1.1 Project Objective 
-            
-            1.2 Functionalities in scope
-
-   ## Risks:
-- stability risks (crashes, disconnects, etc)
-- IE browser might have performance issues
-- the web page pagination could be impacted when opened on mobile devices
-- stress conditions might impact the web application
-- new browser might not be supported
+    1.	Introduction
+The JPetStore Demo is an online pet store. Like most e-stores, you can browse and search the product catalog, choose items to add to a shopping cart, amend the shopping cart, and order the items in the shopping cart. You can perform many of these actions without registering with or logging into the application. However, before you can order items you must log in (sign in) to the application. In order to sign in, you must have an account with the application, which is created when you register (sign up) with the application.
+This release will have have limited features. Over a period of time, new functionalities will be added to this site.
 
 
-## Exit criteria:
-- 100% of tests are executed 
-- 90% of tests are passed
-- no Critical defects have Open status
-- User Add functionality tests are 100% passed
-- Exploratory testing was performed on Admin m
+1.1	 Project Objective
+We need to raise the trust in the quality of the project as high as possible before releasing it to customers.
+Application under test: https://jpetstore.aspectran.com/catalog/
+Documentation: https://jpetstore.mate.academy/jpetstore/help.html#SigningUp
+
+1.2	 Functionalities in scope
+
+•	To design a user-friendly interface that allows customers to browse and search for products easily.
+•	To provide photos for each product so the customers will know what they are gonna purchased.
+•	To add a variety of pets so you can have from where to choose from.
+•	Compatible with all most used browsers.
+
+
+1.3 Functionalities and tests out of scope
+•	Non-functional testing like stress, accessibility, performance is beyond scope of this project.
+•	Automation testing is beyond scope.
+•	All features that are not under Product Module
+•	Automation testing is beyond scope.
+
+
+
+
+
+
+
